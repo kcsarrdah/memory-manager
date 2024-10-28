@@ -9,6 +9,14 @@ TEST(MemoryPoolTest, CanAllocate) {
 
 TEST(MemoryPoolTest, AllocationTooLarge) {
     MemoryPool pool(1024);
-    void* ptr = pool.allocate(2048);  // Try to allocate more than pool size
-    ASSERT_EQ(ptr, nullptr);  // Should fail and return nullptr
+    void* ptr = pool.allocate(2048);
+    ASSERT_EQ(ptr, nullptr);
+}
+
+TEST(MemoryPoolTest, TracksUsedSize) {
+    MemoryPool pool(1024);
+    pool.allocate(128);
+    ASSERT_EQ(pool.getUsedSize(), 128);
+    pool.allocate(256);
+    ASSERT_EQ(pool.getUsedSize(), 384);
 }
