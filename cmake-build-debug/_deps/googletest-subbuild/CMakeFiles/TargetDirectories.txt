@@ -1,3 +1,0 @@
-/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
