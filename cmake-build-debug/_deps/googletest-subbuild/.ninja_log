@@ -1,0 +1,21 @@
+# ninja log v6
+0	14	1730149359117055312	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	697209e6be7a232
+567	577	1730149359679963734	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	72f8307eeed995cb
+0	14	1730149359117055312	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	697209e6be7a232
+577	587	1730149359689886064	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	af09cfa17ad4e5b8
+619	638	1730149359741245041	CMakeFiles/googletest-populate-complete	ff7895394e2e27c4
+587	597	1730149359699765059	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	a4835a9f7541bf65
+597	606	1730149359709281131	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	646d9f2e5aa92131
+14	557	1730149359659569562	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	37fb8c5dfad2ec60
+14	557	1730149359659569562	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	37fb8c5dfad2ec60
+619	638	1730149359741245041	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ff7895394e2e27c4
+567	577	1730149359679963734	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	72f8307eeed995cb
+577	587	1730149359689886064	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	af09cfa17ad4e5b8
+557	567	1730149359670156781	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	ec6dde596ad7da57
+557	567	1730149359670156781	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	ec6dde596ad7da57
+619	638	1730149359741245041	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ff7895394e2e27c4
+597	606	1730149359709281131	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	646d9f2e5aa92131
+587	597	1730149359699765059	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	a4835a9f7541bf65
+606	619	1730149359721773347	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	13d322ca1c60c69a
+606	619	1730149359721773347	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	13d322ca1c60c69a
+619	638	1730149359741245041	/Users/krishnnasarrdah/Documents/C++/memory-manager/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	ff7895394e2e27c4

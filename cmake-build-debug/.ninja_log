@@ -1,0 +1,19 @@
+# ninja log v6
+2	146	1730149446885080847	CMakeFiles/memory_manager.dir/src/memory_pool.cpp.o	6f805b30d90bc70e
+147	558	1730149447029928673	libmemory_manager.a	86f0edba6ab3bbf4
+2	693	1730149446885203850	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	40e554d788e853ea
+2	721	1730149446885317977	CMakeFiles/memory_manager_tests.dir/tests/memory_pool_test.cpp.o	fd6c85c665e4b76d
+1	1592	1730149446884467918	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	c6d7ffaca6b7efb7
+1593	1625	1730149448475890422	lib/libgtest.a	f3e2e0260090b16a
+1625	1639	1730149448507900750	lib/libgtest_main.a	173d721be4f94a5c
+1639	1731	1730149448522289630	memory_manager_tests	1cda7e79c71ff015
+7	546	1730149480828333406	CMakeFiles/memory_manager_tests.dir/tests/memory_pool_test.cpp.o	fd6c85c665e4b76d
+546	628	1730149481367038119	memory_manager_tests	1cda7e79c71ff015
+6	141	1730149807617079061	CMakeFiles/memory_manager.dir/src/memory_pool.cpp.o	6f805b30d90bc70e
+141	159	1730149807751830845	libmemory_manager.a	86f0edba6ab3bbf4
+7	487	1730149807617795117	CMakeFiles/memory_manager_tests.dir/tests/memory_pool_test.cpp.o	fd6c85c665e4b76d
+487	568	1730149808097763492	memory_manager_tests	1cda7e79c71ff015
+7	389	1730150701204222682	CMakeFiles/memory_manager.dir/src/memory_pool.cpp.o	6f805b30d90bc70e
+389	411	1730150701586127786	libmemory_manager.a	86f0edba6ab3bbf4
+8	614	1730150701205006492	CMakeFiles/memory_manager_tests.dir/tests/memory_pool_test.cpp.o	fd6c85c665e4b76d
+614	695	1730150701811230137	memory_manager_tests	1cda7e79c71ff015
